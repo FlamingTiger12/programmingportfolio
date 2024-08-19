@@ -1,5 +1,5 @@
 # Katelyn Lin's Programming Portfolio (2024-2025)
-![title](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eNdj1Lkg3NcTo5oRFDr1ZhsgvkCu4sDqBg&s)
+![Pusheen Cat on Computer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eNdj1Lkg3NcTo5oRFDr1ZhsgvkCu4sDqBg&s)
 ## Bio
 * Currently a high school freshman
 * Projected graduation in 2028
