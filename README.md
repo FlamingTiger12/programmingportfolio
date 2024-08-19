@@ -6,6 +6,7 @@
 * No programming experience (yet!)
 * Can do a little 3D modeling using Maya
 * Typing at 74 WPM, with an accuracy of 97%
+
 ## Term 1
 
 ## Term 2
