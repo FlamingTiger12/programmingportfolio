@@ -8,5 +8,9 @@
 * Typing at 74 WPM, with an accuracy of 97%
 
 ## Term 1
+### Etch-a-Sketch
+A graphics project with keypress drawing controls (WASD & Arrow Keys) with the ability to save an image.
+
+
 
 ## Term 2
