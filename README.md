@@ -10,8 +10,10 @@
 ## Term 1
 ### Etch-a-Sketch
 A graphics project with keypress drawing controls (WASD & Arrow Keys) with the ability to save an image.
-![calculator](https://github.com/user-attachments/assets/54baf397-41bd-4d9f-88ef-36c249648b93)
+
 [Source Code]()
 
 
 ## Term 2
+### Calculator
+![App](https://github.com/user-attachments/assets/54baf397-41bd-4d9f-88ef-36c249648b93)
