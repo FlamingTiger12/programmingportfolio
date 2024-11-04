@@ -8,10 +8,29 @@
 * Typing at 74 WPM, with an accuracy of 97%
 
 ## Term 1
+### Shapes Assignment
+An introduction to programming. Just multicolored shapes on a gray background.
+
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/shapes.png?raw=true)
+
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/Shapes/Shapes.pde)
+
+
+### Timeline
+
+### Collision Detection
+
 ### Etch-a-Sketch
 A graphics project with keypress drawing controls (WASD & Arrow Keys) with the ability to save an image.
 
-[Source Code]()
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/examplepic.png?raw=true)
+
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
+
+
+### Grading App
+
+### Temperature Converter
 
 
 ## Term 2
