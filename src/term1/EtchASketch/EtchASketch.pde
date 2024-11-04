@@ -30,8 +30,6 @@ void draw() {
       background(180);
     }
   }
-  //Saving
-  saveFrame("line-######.png");
 }
 
 //Precise Controls
@@ -49,6 +47,7 @@ void keyPressed() {
   }
 }
 
+//Saving
 void mousePressed() {
   saveFrame("line-######.png");
 }
