@@ -20,4 +20,4 @@ An object oriented graphical calculator with custom buttons and GUI.
 
 ![App](https://github.com/user-attachments/assets/54baf397-41bd-4d9f-88ef-36c249648b93)
 
-[Source Code](https://github.com/FlamingTiger12/programmingportfolio/tree/main/src/term2/Calculator)
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term2/Calculator/Calculator.pde)
