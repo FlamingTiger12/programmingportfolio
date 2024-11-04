@@ -16,4 +16,5 @@ A graphics project with keypress drawing controls (WASD & Arrow Keys) with the a
 
 ## Term 2
 ### Calculator
+An object oriented graphical calculator with custom buttons and GUI.
 ![App](https://github.com/user-attachments/assets/54baf397-41bd-4d9f-88ef-36c249648b93)
