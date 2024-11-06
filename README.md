@@ -33,6 +33,8 @@ The creation of my first method, drawing a little graphic character randomly on 
 ### Grading App
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/grades.png?raw=true)
 
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/GradingApp/GradingApp.pde)
+
 ### Etch-a-Sketch
 A graphics project with keypress drawing controls (WASD & Arrow Keys) with the ability to save an image.
 
