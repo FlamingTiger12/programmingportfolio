@@ -15,27 +15,33 @@ An introduction to programming. Just multicolored shapes on a gray background.
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/Shapes/Shapes.pde)
 
+### Zoog
+The creation of my first method, drawing a little graphic character randomly on the screen.
+
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/zoog.png?raw=true)
 
 ### Timeline
+![App]()
 
 ### Collision Detection
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/collisiondetction.png?raw=true)
+
+### Grading App
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/grades.png?raw=true)
 
 ### Etch-a-Sketch
 A graphics project with keypress drawing controls (WASD & Arrow Keys) with the ability to save an image.
 
-![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/examplepic.png?raw=true)
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/etch-a-sketch.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
 
-
-### Grading App
-
 ### Temperature Converter
-
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/temperatureconverter.png?raw=true)
 
 ## Term 2
 ### Calculator
-An object oriented graphical calculator with custom buttons and GUI.
+An object-oriented graphical calculator with custom buttons and GUI.
 
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/calculator.png?raw=true)
 
