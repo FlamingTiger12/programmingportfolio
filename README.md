@@ -20,6 +20,8 @@ The creation of my first method, drawing a little graphic character randomly on 
 
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/zoog.png?raw=true)
 
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/Zoog/Zoog.pde)
+
 ### Timeline
 ![App]()
 
@@ -40,6 +42,8 @@ A graphics project with keypress drawing controls (WASD & Arrow Keys) with the a
 
 ### Temperature Converter
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/temperatureconverter.png?raw=true)
+
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/TempConverter/TempConverter.pde)
 
 ## Term 2
 ### Calculator
