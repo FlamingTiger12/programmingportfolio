@@ -59,6 +59,6 @@ An object-oriented graphical calculator with custom buttons and GUI.
 ### Space Game
 And object-oriented project of a space-themed, collision-based game.
 
-![App] (https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/spacegame.png?raw=true)
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/spacegame.png?raw=true)
 
-[Source Code] (https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term2/SpaceGame/SpaceGame.pde)
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term2/SpaceGame/SpaceGame.pde)
