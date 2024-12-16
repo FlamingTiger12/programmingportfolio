@@ -11,7 +11,7 @@ Email: katelyn.lin2010@gmail.com
 * Typing at 74 WPM, with an accuracy of 97%
 
 ## Certifications:
-
+![Programming 1 Certificate]()
 
 ## Term 1
 ### Shapes Assignment
