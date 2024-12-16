@@ -2,6 +2,7 @@
 ![Pusheen Cat on Computer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eNdj1Lkg3NcTo5oRFDr1ZhsgvkCu4sDqBg&s)
 ## Bio
 Name: Katelyn Lin
+
 Email: katelyn.lin2010@gmail.com
 * Currently a high school freshman
 * Projected graduation in 2028
