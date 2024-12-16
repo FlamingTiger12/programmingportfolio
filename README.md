@@ -1,5 +1,6 @@
 # Programming 1 Portfolio (2024-2025, Semester 1)
 ![Pusheen Cat on Computer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eNdj1Lkg3NcTo5oRFDr1ZhsgvkCu4sDqBg&s)
+
 ## Bio
 Name: Katelyn Lin
 
@@ -14,6 +15,7 @@ Email: katelyn.lin2010@gmail.com
 YouScience Programming 1:
 ![Programming 1 Certificate](https://github.com/user-attachments/assets/453777ca-b405-4003-b342-97aff2546028)
 
+---
 
 ## Term 1
 ### Shapes Assignment
@@ -58,7 +60,8 @@ A program that converts Fahrenheit to Celsius, and vice versa, depending on the 
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/TempConverter/TempConverter.pde)
 
-                                  
+---
+
 ## Term 2
 ### Calculator
 An object-oriented graphical calculator with custom buttons and GUI.
@@ -66,7 +69,6 @@ An object-oriented graphical calculator with custom buttons and GUI.
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/calculator.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term2/Calculator/Calculator.pde)
-
 
 ### Space Game
 And object-oriented project of a space-themed, collision-based game.
