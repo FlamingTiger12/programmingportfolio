@@ -30,9 +30,6 @@ The creation of my first method, drawing a little graphic character randomly on 
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/Zoog/Zoog.pde)
 
-### Timeline
-![App]()
-
 ### Collision Detection
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/collisiondetction.png?raw=true)
 
