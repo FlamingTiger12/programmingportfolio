@@ -31,11 +31,15 @@ The creation of my first method, drawing a little graphic character randomly on 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/Zoog/Zoog.pde)
 
 ### Collision Detection
+My first collision detection program of two balls bouncing around the screen.
+
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/collisiondetction.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/ColDet/ColDet.pde)
 
 ### Grading App
+A project that uses the position of the cursor to assign a letter grade to PBL.
+
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/grades.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/GradingApp/GradingApp.pde)
@@ -48,6 +52,8 @@ A graphics project with keypress drawing controls (WASD & Arrow Keys) with the a
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
 
 ### Temperature Converter
+A program that converts Fahrenheit to Celsius, and vice versa, depending on the position of the cursor.
+
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/temperatureconverter.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/TempConverter/TempConverter.pde)
