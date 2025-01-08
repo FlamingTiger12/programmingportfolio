@@ -1,4 +1,4 @@
-# Programming 1 Portfolio (2024-2025, Semester 1)
+# Programming 1-2 Portfolio (2024-2025)
 ![Pusheen Cat on Computer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eNdj1Lkg3NcTo5oRFDr1ZhsgvkCu4sDqBg&s)
 
 ## Bio
