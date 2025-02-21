@@ -36,7 +36,7 @@ The creation of my first method, drawing a little graphic character randomly on 
 ### Collision Detection
 My first collision detection program of two balls bouncing around the screen.
 
-![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/collisiondetction.png?raw=true)
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/collisiondetection.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term1/ColDet/ColDet.pde)
 
@@ -84,6 +84,6 @@ And object-oriented project of a space-themed, collision-based game.
 ### Shape Tester
 A Python program that allows the user to select a shape and input dimensions to receive the shape's volume/surface area.
 
-![App]()
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/shapetester.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/tree/main/src/term3/python/ShapeTester)
