@@ -77,3 +77,13 @@ And object-oriented project of a space-themed, collision-based game.
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/spacegame.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term2/SpaceGame/SpaceGame.pde)
+
+---
+
+## Term 3
+### Shape Tester
+A Python program that allows the user to select a shape and input dimensions to receive the shape's volume/surface area.
+
+![App]()
+
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/tree/main/src/term3/python/ShapeTester)
