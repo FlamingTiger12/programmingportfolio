@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5e2d7dc3-0fbb-439c-95cd-6d2dbeca6df3)# Programming 1-2 Portfolio (2024-2025)
+# Programming 1-2 Portfolio (2024-2025)
 ![Pusheen Cat on Computer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eNdj1Lkg3NcTo5oRFDr1ZhsgvkCu4sDqBg&s)
 
 ## Bio
