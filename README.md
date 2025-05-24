@@ -102,10 +102,17 @@ Exploring Python's built-in "random" module. Takes a number from 1-100 and allow
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term3/python/GuessingGame/GuessingGame.py)
 
 ### Shape Tester
-A Python program that allows the user to select a shape and input dimensions to receive the shape's volume/surface area.
+Learning about Python classes. Allows the user to select a shape and input dimensions to receive the shape's volume/surface area.
 
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/shapetester.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/tree/main/src/term3/python/ShapeTester)
 
-### 
+---
+
+## Term 4
+### MadLib
+
+
+### PowerHop
+My first group project. Worked with teammates to recreate a version of Frogger with powerups.
