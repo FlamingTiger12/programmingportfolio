@@ -19,6 +19,7 @@ YouScience Programming 1:
 
 YouScience Programming 2 (Python):
 ![Programming 2 Certificate](https://github.com/user-attachments/assets/b6855e19-fa3a-4aab-9f57-d9edf80f05ba)
+[Certificate Link](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/Katelyn%20Lin_Computer%20Programming%202%20Python_05092025.pdf)
 
 
 ---
