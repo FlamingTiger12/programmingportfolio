@@ -87,9 +87,25 @@ And object-oriented project of a space-themed, collision-based game.
 ---
 
 ## Term 3
+### 99 Bottles
+My first introduction to Python, prints out the entirety of the "99 Bottles" song using loops and a few if statements.
+
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/99_Bottles.png?raw=true)
+
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term3/python/99Bottles/99Bottles.py)
+
+### Guessing Game
+Exploring Python's built-in "random" module. Takes a number from 1-100 and allows user to guess what it is.
+
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/Guessing_Game.png?raw=true)
+
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term3/python/GuessingGame/GuessingGame.py)
+
 ### Shape Tester
 A Python program that allows the user to select a shape and input dimensions to receive the shape's volume/surface area.
 
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/shapetester.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/tree/main/src/term3/python/ShapeTester)
+
+### 
