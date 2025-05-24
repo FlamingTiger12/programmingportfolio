@@ -16,8 +16,9 @@ Email: katelyn.lin2010@gmail.com
 YouScience Programming 1:
 ![Programming 1 Certificate](https://github.com/user-attachments/assets/453777ca-b405-4003-b342-97aff2546028)
 [Certificate Link](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/programmingonecertificate.pdf)
+
 YouScience Programming 2 (Python):
-1[Programming 2 Python Certificate]()
+![Programming 2 Python Certificate](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/Katelyn%20Lin_Computer%20Programming%202%20Python_05092025.pdf)
 
 ---
 
