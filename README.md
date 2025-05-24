@@ -10,6 +10,7 @@ Email: katelyn.lin2010@gmail.com
 * No programming experience (yet!)
 * Can do a little 3D modeling using Maya
 * Typing at 74 WPM, with an accuracy of 97%
+* Python and a little Java
 
 ## Certifications:
 YouScience Programming 1:
