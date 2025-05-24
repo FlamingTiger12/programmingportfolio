@@ -88,7 +88,7 @@ And object-oriented project of a space-themed, collision-based game.
 
 ## Term 3
 ### 99 Bottles
-My first introduction to Python, prints out the entirety of the "99 Bottles" song using loops and a few if statements.
+My first introduction to Python, prints out the entirety of the "99 Bottles of (root) beer" song using loops and a few if statements.
 
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/99_Bottles.png?raw=true)
 
@@ -100,6 +100,13 @@ Exploring Python's built-in "random" module. Takes a number from 1-100 and allow
 ![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/Guessing_Game.png?raw=true)
 
 [Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term3/python/GuessingGame/GuessingGame.py)
+
+### Pig Latin
+Uses lists and string concatenation to translate user input into pig latin.
+
+![App](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/Pig_Latin.png?raw=true)
+
+[Source Code](https://github.com/FlamingTiger12/programmingportfolio/blob/main/src/term3/python/PigLatin/PigLatin.py)
 
 ### Shape Tester
 Learning about Python classes. Allows the user to select a shape and input dimensions to receive the shape's volume/surface area.
