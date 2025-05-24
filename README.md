@@ -1,4 +1,4 @@
-# Programming 1-2 Portfolio (2024-2025)
+![image](https://github.com/user-attachments/assets/5e2d7dc3-0fbb-439c-95cd-6d2dbeca6df3)# Programming 1-2 Portfolio (2024-2025)
 ![Pusheen Cat on Computer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eNdj1Lkg3NcTo5oRFDr1ZhsgvkCu4sDqBg&s)
 
 ## Bio
@@ -16,6 +16,8 @@ Email: katelyn.lin2010@gmail.com
 YouScience Programming 1:
 ![Programming 1 Certificate](https://github.com/user-attachments/assets/453777ca-b405-4003-b342-97aff2546028)
 [Certificate Link](https://github.com/FlamingTiger12/programmingportfolio/blob/main/images/programmingonecertificate.pdf)
+YouScience Programming 2 (Python):
+1[Programming 2 Python Certificate]()
 
 ---
 
